@@ -1,12 +1,18 @@
+body {
+  font-size: 16px;
+  
+  background-color: #aec6cf ;
+  font-family: 'Oxygen', sans-serif;
+}
 
 /** HEADER **/
 #header-nav {
-    background-color: #c2c7caa2;
+    background-color: #957DAD;
     border-radius: 0;
     border: 2px solid black;
   }
   
-  .navbar-brand h1 { /* Restaurant name */
+  .navbar-brand h1 { /* Restaurant name Food LLC */
     color: black;
     font-size: 1.5em;
     font-weight: bold;
@@ -15,6 +21,7 @@
     margin-bottom: 0;
     line-height: .75;
   }
+
   .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
     border: 1px solid #000000;
   }
@@ -22,3 +29,15 @@
     clear: both;
     margin-top: -30px;
   }
+  #collapsable-nav a { /* Collapsed nav menu text */
+    font-size: 1.2em;
+  }
+  /* END NAVBAR  */
+
+  /* main content start */
+  #main-content h2 {
+    font-weight: bold;
+  }
+ 
+ 
+  
