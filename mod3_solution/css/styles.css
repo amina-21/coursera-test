@@ -56,13 +56,6 @@ body {
   #collapsable-nav a { /* Collapsed nav menu text */
     font-size: 1.2em;
   }
- #p1 {
-   position: relative;
-    color: #000;
-    border: 1px solid black;
-    background-color: burlywood;
-    
- }
  
 
  /* desktop version */
