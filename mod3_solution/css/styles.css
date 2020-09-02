@@ -61,15 +61,19 @@ body {
     color: #000;
     border: 1px solid black;
     background-color: burlywood;
+    
  }
  
 
  /* desktop version */
 @media (min-width: 992px) {
   .col-lg-12{
-    padding: 10px;
-    margin: 20px;
-    width: 98%;
+
+    padding: 15px;
+    margin-left: 15px;
+    width: 100%;
+    
+   
   }
   
   } 
