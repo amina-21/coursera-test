@@ -35,14 +35,7 @@ WARNING!!! WARNING!!!
 // (Note, Step 2 will be done in the SpeakHello.js file.)
 (function () {
   var names = ["Yaakov", "John", "Jen", "Jason", "Paul", "Frank", "Larry", "Paula", "Laura", "Jim"];
-  // for(var i=0;i<names.length;i++) {
-  //   // console.log(names[i].substring(0, 1));
-  //   if (names[i].charAt(0) == "J") {
-  //     console.log("good bye " + names[i] + "!");
-  //   } else {
-  //     console.log("hello " + names[i] + "!");
-  //   };
-  // };
+  
 
 // // STEP 10:
 // // Loop over the names array and say either 'Hello' or "Good Bye"
